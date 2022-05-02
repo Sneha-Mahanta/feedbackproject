@@ -1,0 +1,10 @@
+
+body{
+  background: url("feedback.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color :red;
+}
+html{
+  height: 100%;
+  }
